@@ -4,9 +4,9 @@
 </p>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0dTk1ZzZycWxzbjgyczlobXNpNDJ5cWprZjdyZDF4bnk1Z2sybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="35"/> Bio
-Hi! My name is Lisa Olsen. I have a BA in Linguistics and Discourse Studies and a Grad Certificate in Technical Writing. I'm a recent graduate of a Software Engineering bootcamp, but my background is in education, editing, and content writing.
+Hi! My name is Lisa Olsen. I have a BA in Linguistics and Discourse Studies and a Graduate Certificate in Technical Writing. I'm a recent graduate of a Software Engineering bootcamp, but my background is in education, editing, and content writing.
 
-I also have a passion for video games and storytelling. I've done text editing for the games **Roadwarden** and **Windy Meadow**, and I recently released my capstone project, [Gamebook Web](https://gamebook-web.netlify.app/), which is interactive fiction in the vein of the Choose Your Own Adventure type of books. I plan to continue improving and adding stories to this project, as well as tackle new projects to expand my skillset. Feel free to reach out if you want to connect or collaborate!
+I also have a passion for video games and storytelling. I've done text editing for the games **Roadwarden** and **Windy Meadow** (Moral Anxiety Studio), and I recently released my capstone project, [Gamebook Web](https://gamebook-web.netlify.app/), which is interactive fiction in the vein of the "Choose Your Own Adventure" type of books. I plan to continue improving and adding stories to this project, as well as tackle new projects to expand my skillset. Feel free to reach out if you want to connect or collaborate!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 <br>
@@ -43,7 +43,7 @@ I also have a passion for video games and storytelling. I've done text editing f
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <br>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lmolsen&show_icons=true&line_height=20&theme=dark" height="200" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmolsen&show_icons=true&locale=en&layout=compact&line_height=20&theme=dark" height="200" alt="top languages"/>
 </div>
