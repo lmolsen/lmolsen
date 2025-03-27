@@ -1,5 +1,14 @@
-## Hi there 👋
+# About me
+## Bio
+Hi! My name is Lisa Olsen. I have a BA in Linguistics and Discourse Studies and a Grad Certificate in Technical Writing. I'm a recent graduate of a Software Engineering bootcamp, but my background is in education, editing, and content writing.
 
+I also have a passion for video games and storytelling. I've done text editing for the games **Roadwarden** and **Windy Meadow**, and I recently released my capstone project, [Gamebook Web](https://gamebook-web.netlify.app/), which is interactive fiction in the vein of the Choose Your Own Adventure type of books. I plan to continue improving and adding stories to this project, as well as tackle new projects to expand my skillset. Feel free to reach out if you want to connect or collaborate!
+
+## Current Project
+[Gamebook Web (Repo)](https://github.com/lmolsen/lisa-olsen-capstone)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/lisa-m-olsen/)
 <!--
 **lmolsen/lmolsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
