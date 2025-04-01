@@ -59,8 +59,19 @@ I also have a passion for video games and storytelling. I've done text editing f
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl2bzkyOXRuN3l1Zjg5dDR4YXgwNWh3enc0MXBrMjJlMnlxZjJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcnlGHBpnKnjZIuCMv/giphy.gif" width="35"/> Contact
 <a href="https://linkedin.com/in/lisa-m-olsen" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Lisa%20Olsen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin-bottom: 5px;"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" 
+    alt="LinkedIn" 
+    style="margin-bottom: 5px;"/>
 </a>
+<br>
+<a href="https://lmolsen.netlify.app/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-00796b?style=for-the-badge" 
+    alt="Portfolio" 
+    style="margin-bottom: 5px;"/>
+</a>
+
 
 <br><br>
 
