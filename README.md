@@ -33,9 +33,12 @@ I also have a passion for video games and storytelling. I've done text editing f
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
+    ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-%23000E51.svg?style=for-the-badge&logo=adobe-acrobat&logoColor=white)
     ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 <br>
@@ -52,8 +55,9 @@ I also have a passion for video games and storytelling. I've done text editing f
 <br>
 
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpjcDI4cDM0a3R0eWc1ZDlpMjh2dngyZTV4amhvd2R2cHd4dnJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05HgB2h6qICDs5Sms/giphy.gif" width="35"/> Current Project
-[Gamebook Web (Repo)](https://github.com/lmolsen/lisa-olsen-capstone)
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpjcDI4cDM0a3R0eWc1ZDlpMjh2dngyZTV4amhvd2R2cHd4dnJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05HgB2h6qICDs5Sms/giphy.gif" width="35"/> Current Projects
+* [Gamebook Web (Repo)](https://github.com/lmolsen/lisa-olsen-capstone)
+* [Artist Website](https://munchkinlander.com/)
 
 <br>
 
