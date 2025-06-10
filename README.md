@@ -4,7 +4,7 @@
 </p>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0dTk1ZzZycWxzbjgyczlobXNpNDJ5cWprZjdyZDF4bnk1Z2sybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="35"/> Bio
-Hi! My name is Lisa Olsen. I have a BA in Linguistics and Discourse Studies and a Graduate Certificate in Technical Writing. I'm a recent graduate of a Software Engineering bootcamp, but my background is in education, editing, and content writing.
+Hi! My name is Lisa Olsen. I have a BA in Linguistics and Discourse Studies and a Graduate Certificate in Technical Writing. I'm a graduate of a Software Engineering bootcamp, but my background is in education, editing, and content writing.
 
 I also have a passion for video games and storytelling. I've done text editing for the games **Roadwarden** and **Windy Meadow** (Moral Anxiety Studio), and I recently released my capstone project, [Gamebook Web](https://gamebook-web.netlify.app/), which is interactive fiction in the vein of the "Choose Your Own Adventure" type of books. I plan to continue improving and adding stories to this project, as well as tackle new projects to expand my skillset. Feel free to reach out if you want to connect or collaborate!
 
@@ -55,7 +55,7 @@ I also have a passion for video games and storytelling. I've done text editing f
 <br>
 
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpjcDI4cDM0a3R0eWc1ZDlpMjh2dngyZTV4amhvd2R2cHd4dnJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05HgB2h6qICDs5Sms/giphy.gif" width="35"/> Current Projects
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpjcDI4cDM0a3R0eWc1ZDlpMjh2dngyZTV4amhvd2R2cHd4dnJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05HgB2h6qICDs5Sms/giphy.gif" width="35"/> Recent Projects
 * [Gamebook Web (Repo)](https://github.com/lmolsen/lisa-olsen-capstone)
 * [Artist Website](https://munchkinlander.com/)
 
